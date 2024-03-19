@@ -34,4 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranay38&show_icons=true&locale=en" alt="pranay38" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranay38&" alt="pranay38" /></p>
-![Snake animation](https://github.com/${{ github.repository_owner }}/${{ github.repository_owner }}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]
+(https://github.com/Pranay38/Pranay38/blob/output/github-contribution-grid-snake.svg)
