@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Pranay Agrawal</h1>
-<h3 align="center">A passionate developer from India</h3>
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&color=FFD83D&background=FFFFFF00&center=true&repeat=false&random=true&width=435&lines=Pranay+Agrawal)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=FFD83D&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=----+Student+----;Nice+to+meet+you!+%F0%9F%91%8B)
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranay38&label=Profile%20views&color=0e75b6&style=flat" alt="pranay38" /> </p>
 
