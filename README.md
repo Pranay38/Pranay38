@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋, I'm Pranay Agrawal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
